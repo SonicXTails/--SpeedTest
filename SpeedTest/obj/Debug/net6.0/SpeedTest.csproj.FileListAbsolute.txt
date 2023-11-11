@@ -1,0 +1,62 @@
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.exe
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.deps.json
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.runtimeconfig.json
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.dll
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.pdb
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfoInputs.cache
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfo.cs
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.dll
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\obj\Debug\net6.0\refint\SpeedTest.dll
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.pdb
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.genruntimeconfig.cache
+C:\Users\SonicXTails\OneDrive\Рабочий стол\Example\SpeedTest\SpeedTest\obj\Debug\net6.0\ref\SpeedTest.dll
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.exe
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.deps.json
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.runtimeconfig.json
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.dll
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.pdb
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfoInputs.cache
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfo.cs
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.dll
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\obj\Debug\net6.0\refint\SpeedTest.dll
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.pdb
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.genruntimeconfig.cache
+C:\Users\SonicXTails\OneDrive\Рабочий стол\SpeedTest\SpeedTest\obj\Debug\net6.0\ref\SpeedTest.dll
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.exe
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.deps.json
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.runtimeconfig.json
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.dll
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.pdb
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfoInputs.cache
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfo.cs
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CoreCompileInputs.cache
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.dll
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\refint\SpeedTest.dll
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.pdb
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.genruntimeconfig.cache
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\ref\SpeedTest.dll
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.AssemblyReference.cache
+E:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CopyComplete
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.exe
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.deps.json
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.runtimeconfig.json
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.dll
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.pdb
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.AssemblyReference.cache
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfoInputs.cache
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfo.cs
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CoreCompileInputs.cache
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CopyComplete
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.dll
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\refint\SpeedTest.dll
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.pdb
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.genruntimeconfig.cache
+D:\Lessons\П\C#\Практические\SpeedTest\SpeedTest\obj\Debug\net6.0\ref\SpeedTest.dll
